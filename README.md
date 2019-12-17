@@ -1,4 +1,4 @@
-
+[![Build Status](https://mkr321.visualstudio.com/JavaDevops/_apis/build/status/Manishmkr.pipelines-java?branchName=master)](https://mkr321.visualstudio.com/JavaDevops/_build/latest?definitionId=15&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
